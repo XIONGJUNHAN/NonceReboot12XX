@@ -516,7 +516,7 @@
 				ENABLE_BITCODE = NO;
 				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "exploit/voucher_swap/kernel_call exploit/voucher_swap/ exploit/voucher_swap/headers";
 				INFOPLIST_FILE = noncereboot1131UI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -526,7 +526,7 @@
 					"-framework",
 					IOKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.umangis.com.pwn20wnd.noncereboot1131UI;
+				PRODUCT_BUNDLE_IDENTIFIER = me.umangis.com.pwn20wnd.noncereboot12xx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -543,7 +543,7 @@
 				ENABLE_BITCODE = NO;
 				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "exploit/voucher_swap/kernel_call exploit/voucher_swap/ exploit/voucher_swap/headers";
 				INFOPLIST_FILE = noncereboot1131UI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -553,7 +553,7 @@
 					"-framework",
 					IOKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.umangis.com.pwn20wnd.noncereboot1131UI;
+				PRODUCT_BUNDLE_IDENTIFIER = me.umangis.com.pwn20wnd.noncereboot12xx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
